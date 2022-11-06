@@ -1,0 +1,12 @@
+package aed_pilha_dinamica;
+
+
+public class Aed_Pilha_dinamica {
+
+   
+    public static void main(String[] args) {
+      Pilha_dinamica<Integer> pilha = new Pilha_dinamica();
+     
+    }
+    
+}
