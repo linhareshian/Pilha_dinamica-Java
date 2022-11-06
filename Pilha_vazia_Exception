@@ -1,0 +1,16 @@
+
+package aed_pilha_dinamica;
+
+
+public class PilhavaziaExcepion extends RuntimeException {
+
+    public PilhavaziaExcepion(String msg) {
+        super(msg);
+    }
+    
+    
+    public PilhavaziaExcepion(){
+     super();
+    }
+    
+}
